@@ -1,12 +1,13 @@
 ### Hi there 👋
 
-<!--
+
 **harshmittal1750/harshmittal1750** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![Portfolio](https://img.shields.io/website?color=blue&label=Portfolio&style=flat&up_message=Online&url=https://www.facebook.com)](https://harshmittal1750.github.io/Portfolio/)
+
+[![Portfolio](https://img.shields.io/website?color=blue&label=Portfolio&style=flat&up_message=Online&url=https://www.facebook.com)](https://harshmittal1750.github.io/Portfolio/#)
 ![Visitor Count](https://komarev.com/ghpvc/?username=harshmittal1750&color=blue&logo=flat)
-[![Linkedin](https://img.shields.io/badge/harshmittal1750-black?style=flat&logo=Linkedin&logoColor=blue&link=https:https://www.linkedin.com/in/sanchit-bajaj-123826194/)](https://www.linkedin.com/in/harsh-mittal-194a45183/)
+[![Linkedin](https://img.shields.io/badge/harshmittal1750-black?style=flat&logo=Linkedin&logoColor=blue&link=https:https://www.linkedin.com/in/harsh-mittal-194a45183/)](https://www.linkedin.com/in/harsh-mittal-194a45183/)
 [![Twitter](https://img.shields.io/badge/harshmittal1750-black?style=flat&logo=Twitter&logoColor=blue&link=https:https:https://twitter.com/harshmittal1750)](https://twitter.com/harshmittal1750)
-[![Instagram](https://img.shields.io/badge/sbajaj_02-black?style=flat&logo=Instagram&logoColor=pink&link=https:https:https:/www.instagram.com/sbajaj_02/)](https://www.instagram.com/harshmittal1750/)
+[![Instagram](https://img.shields.io/badge/sbajaj_02-black?style=flat&logo=Instagram&logoColor=pink&link=https:https:https:/https://www.instagram.com/harshitamittal412/)](https://www.instagram.com/harshmittal1750/)
 
 <br>
 
