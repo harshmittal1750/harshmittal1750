@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-
-
-
 [![Portfolio](https://img.shields.io/website?color=blue&label=Portfolio&style=flat&up_message=Online&url=https://www.facebook.com)](https://harshmittal1750.github.io/portfolio/#)
 ![Visitor Count](https://komarev.com/ghpvc/?username=harshmittal1750&color=blue&logo=flat)
 [![Linkedin](https://img.shields.io/badge/harshmittal1750-black?style=flat&logo=Linkedin&logoColor=blue&link=https:https://www.linkedin.com/in/harsh-mittal-194a45183/)](https://www.linkedin.com/in/harsh-mittal-194a45183/)
@@ -12,9 +9,9 @@
 <br>
 
 - 🔭 I’m currently working on to brushing up my skills
-- 🌱 I’m currently learning Python and JavaScript
-- 👯 I’m looking to collaborate on JavaScript projects
-- 💬 Ask me about C, C++ and JavaScript
+- 🌱 I’m currently learning Flutter
+- 👯 I’m looking to collaborate on Flutter projects
+- 💬 Ask me about Flutter, Frond-end-WEB-DEV
 - 📫 How to reach me: <a href="mailto:harshmittal1750@gmail.com">harshmittal1750@gmail.com</a>
 - ⚡ Fun fact: Appolo-11 mission uses only 4KB RAM to reach on moon
 
@@ -26,7 +23,6 @@
     <img src="https://img.shields.io/badge/-C++-000000?&style=flat&logo=c%2B%2B&logoColor=0277BD" />
     <img src="https://img.shields.io/badge/-C-000000?&style=flat&logo=c&logoColor=5968BA" />
     <img src="https://img.shields.io/badge/-Java-000000?style=flat&logo=java&logoColor=F44336" />
-    <img src="https://img.shields.io/badge/-Jupyter-000000?style=flat&logo=jupyter&logoColor=F57C00" />
     <img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColorhalf=396E9B" /> <br>
     <img src="https://img.shields.io/badge/-HTML-000000?&style=flat&logo=html5&logoColor=E44D26"/>
     <img src="https://img.shields.io/badge/-CSS-000000?&style=flat&logo=css3&logoColor=42A5F5"/>
@@ -41,7 +37,6 @@
     <img src="https://img.shields.io/badge/-git-000000?&style=flat&logo=git&logoColor=E64A19"/>
     <img src="https://img.shields.io/badge/-Gitpod-000000?style=flat&logo=gitpod&logoColor=29B4F4" />
     <img src="https://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=DEDEDF" />
-    <img src="https://img.shields.io/badge/-Firebase-000000?style=flat&logo=firebase&logoColor=FBC02D"/>
 </div>
 
 <br>
