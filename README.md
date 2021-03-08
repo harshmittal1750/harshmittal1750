@@ -16,7 +16,8 @@
 - ⚡ Fun fact: Appolo-11 mission uses only 4KB RAM to reach on moon
 
 <br>
-[![Anurag's github trophy](https://github-profile-trophy.vercel.app/?username=harshmittal1750&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?harshmittal1750)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ## My Working Stack:
 
