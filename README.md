@@ -2,7 +2,7 @@
 
 [![Portfolio](https://img.shields.io/website?color=blue&label=Portfolio&style=flat&up_message=Online&url=https://www.facebook.com)](https://harshmittal1750.github.io/portfolio/#)
 ![Visitor Count](https://komarev.com/ghpvc/?username=harshmittal1750&color=blue&logo=flat)
-[![Linkedin](https://img.shields.io/badge/harshmittal1750-black?style=flat&logo=Linkedin&logoColor=blue&link=https:https://www.linkedin.com/in/harsh-mittal-194a45183/)](https://www.linkedin.com/in/harsh-mittal-194a45183/)
+[![Linkedin](https://img.shields.io/badge/harshmittal1750-black?style=flat&logo=Linkedin&logoColor=blue&link=https:https://www.linkedin.com/in/harsh-mittal-194a45183/)](https://www.linkedin.com/in/harshmittal1750)
 [![Twitter](https://img.shields.io/badge/harshmittal1750-black?style=flat&logo=Twitter&logoColor=blue&link=https:https:https://twitter.com/harshmittal1750)](https://twitter.com/harshmittal1750)
 [![Instagram](https://img.shields.io/badge/harshmittal1750-black?style=flat&logo=Instagram&logoColor=pink&link=https:https:https:/https://www.instagram.com/harshmittal1750/)](https://www.instagram.com/harshmittal1750/)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fharshmittal1750%2Fharshmittal1750&count_bg=%233DB6F6&title_bg=%23555555&icon=iconify.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
