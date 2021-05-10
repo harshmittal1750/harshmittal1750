@@ -50,7 +50,7 @@
 
   ### Streak
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harshmittal1750&theme=dracula)](https://git.io/streak-stats)
+ &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harshmittal1750&theme=dracula)](https://git.io/streak-stats)
 
   ### Graph
 
