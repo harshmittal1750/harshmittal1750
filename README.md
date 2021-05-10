@@ -48,4 +48,15 @@
 [![My Stats](https://github-readme-stats.vercel.app/api?username=harshmittal1750&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=0a192f&count_private=true)](https://github.com/harshmittal1750?tab=repositories)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshmittal1750&layout=compact&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=0a192f)](https://github.com/harshmittal1750?tab=repositories)
 
+  ### Streak
+
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harshmittal1750&theme=dracula)](https://git.io/streak-stats)
+
+  ### Graph
+
+  [![Harsh's github activity graph](https://activity-graph.herokuapp.com/graph?username=harshmittal1750&theme=dracula)](https://activity-graph.herokuapp.com/graph?username=harshmittal1750&theme=dracula)
+
+</div>
+
+
 <!-- - 🤔 I’m looking for help with  -->
