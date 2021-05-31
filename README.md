@@ -8,13 +8,10 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fharshmittal1750%2Fharshmittal1750&count_bg=%233DB6F6&title_bg=%23555555&icon=iconify.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <br>
 
-- 🔭 I’m currently working on to brushing up my skills
-- 🌱 I’m currently learning Flutter
-- 👯 I’m looking to collaborate on Flutter projects
-- 💬 Ask me about Flutter, Frond-end-WEB-DEV
-- 📫 How to reach me: <a href="mailto:harshmittal1750@gmail.com">harshmittal1750@gmail.com</a>
-- ⚡ Fun fact: Appolo-11 mission uses only 4KB RAM to reach on moon
-
+- 🔭 Learning flutter
+- 👯Looking ahead on flutter and web projects
+DM me to know about web projects
+Contact me on :<a href="mailto:harshmittal1750@gmail.com">harshmittal1750@gmail.com</a>
 <br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=harshmittal1750&row=1)](https://github.com/ryo-ma/github-profile-trophy)
