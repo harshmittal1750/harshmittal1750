@@ -10,8 +10,8 @@
 
 - 🔭 Learning flutter
 - 👯Looking ahead on flutter and web projects
-DM me to know about web projects
-Contact me on :<a href="mailto:harshmittal1750@gmail.com">harshmittal1750@gmail.com</a>
+- DM me to know about web projects
+- Contact me on :<a href="mailto:harshmittal1750@gmail.com">harshmittal1750@gmail.com</a>
 <br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=harshmittal1750&row=1)](https://github.com/ryo-ma/github-profile-trophy)
