@@ -8,8 +8,8 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fharshmittal1750%2Fharshmittal1750&count_bg=%233DB6F6&title_bg=%23555555&icon=iconify.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <br>
 
-- 🔭 Learning flutter
-- 👯Looking ahead on flutter and web projects
+- 🔭 Learning Reactjs And ReactNative
+- 👯Looking ahead on web projects
 - DM me to know about web projects
 - Contact me on :<a href="mailto:harshmittal1750@gmail.com">harshmittal1750@gmail.com</a>
 <br>
@@ -19,23 +19,25 @@
 ## My Working Stack:
 
 <div align="center">
-    <img src="https://img.shields.io/badge/-C++-000000?&style=flat&logo=c%2B%2B&logoColor=0277BD" />
-    <img src="https://img.shields.io/badge/-C-000000?&style=flat&logo=c&logoColor=5968BA" />
-    <img src="https://img.shields.io/badge/-Java-000000?style=flat&logo=java&logoColor=F44336" />
-    <img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColorhalf=396E9B" /> <br>
-    <img src="https://img.shields.io/badge/-HTML-000000?&style=flat&logo=html5&logoColor=E44D26"/>
-    <img src="https://img.shields.io/badge/-CSS-000000?&style=flat&logo=css3&logoColor=42A5F5"/>
-    <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=FFCA28" />
-    <img src="https://img.shields.io/badge/-Php-000000?style=flat&logo=php&logoColor=1E87E3" />
-    <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=03AABF" />
-    <img src="https://img.shields.io/badge/-Angular-000000?style=flat&logo=angular&logoColor=E53935">
-    <img src="https://img.shields.io/badge/-Node.js-000000?&style=flat&logo=node.js&logoColor=8AC149"/>
-    <img src="https://img.shields.io/badge/-NPM-000000?&style=flat&logo=npm&logoColor=CB3837"/>
-    <img src="https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&logoColor=E6892E" />
-    <img src="https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&logoColor=4AAA3C" /> <br>
-    <img src="https://img.shields.io/badge/-git-000000?&style=flat&logo=git&logoColor=E64A19"/>
-    <img src="https://img.shields.io/badge/-Gitpod-000000?style=flat&logo=gitpod&logoColor=29B4F4" />
-    <img src="https://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=DEDEDF" />
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+    ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+    ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+    ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+    	![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+    	![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
+    ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+    ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+    ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+    ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+    ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+    ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+    ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white
+    ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+    ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+    ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 </div>
 
 <br>
