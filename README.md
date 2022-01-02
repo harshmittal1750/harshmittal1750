@@ -8,7 +8,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fharshmittal1750%2Fharshmittal1750&count_bg=%233DB6F6&title_bg=%23555555&icon=iconify.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <br>
 
-- 🔭 Learning Reactjs And ReactNative
+- 🔭 Learning React And ReactNative
 - 👯Looking ahead on web projects
 - DM me to know about web projects
 - Contact me on :<a href="mailto:harshmittal1750@gmail.com">harshmittal1750@gmail.com</a>
@@ -44,6 +44,7 @@
 
 <br>
 
+<div align="center">
 ## My Statistics:
 
 [![My Stats](https://github-readme-stats.vercel.app/api?username=harshmittal1750&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=0a192f&count_private=true)](https://github.com/harshmittal1750?tab=repositories)
@@ -52,6 +53,8 @@
 ### Streak
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harshmittal1750)](https://git.io/streak-stats)
+
+</div>
 
 ### Graph
 
