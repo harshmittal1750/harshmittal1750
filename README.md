@@ -8,10 +8,11 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fharshmittal1750%2Fharshmittal1750&count_bg=%233DB6F6&title_bg=%23555555&icon=iconify.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <br>
 
-- 🔭 Learning React And ReactNative
-- 👯Looking ahead on web projects
-- DM me to know about web projects
+- 🔭 Learning ReactNative and web3
+- 👯Looking ahead on 
+- DM me to know about web and web3 prjects and ideas.
 - Contact me on :<a href="mailto:harshmittal1750@gmail.com">harshmittal1750@gmail.com</a>
+- Or the web3 way:<a href="mailto:harshmittal.eth@mail3.me">https://mail3.me/harshmittal.eth</a>
 <br>
 <div align="center">
 
