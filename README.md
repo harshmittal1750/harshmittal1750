@@ -1,8 +1,4 @@
 ### Hi there 👋, I'm Harsh Mittal! ✨
-
-[![Portfolio](https://img.shields.io/website?color=blue&label=Portfolio&style=flat&up_message=Online&url=https://www.facebook.com)](https://harshmittal1750.github.io/portfolio/#)
-![Visitor Count](https://komarev.com/ghpvc/?username=harshmittal1750&color=blue&logo=flat)
-
 <br>
 
 🔭 Currently learning React Native and Web3 technologies.
