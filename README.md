@@ -11,8 +11,11 @@
 🔭 Currently learning React Native and Web3 technologies.
 
 👯 Excited about future opportunities and collaborations.
+
 💬 Feel free to DM me to discuss about projects and share innovative ideas.
+
 ✉️ You can reach me at: harshmittal1750@gmail.com.
+
 🔗 Alternatively, you can contact me via the web3 way at: harshmittal.eth@mail3.me.
 <br>
 <div align="center">
