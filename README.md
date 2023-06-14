@@ -9,11 +9,11 @@
 - 💻 Researching about different Blockchain Protocols and developing applications and utilities using them.
 - 🎆 I have experience in working with blockchain tools and frameworks like *Hardhat, Truffle, Metamask, EthersJS, Web3JS*, etc.
 
-## My Working Stack:
+<!--## My Working Stack:
 
-<div align="center">
+<div align="center">-->
      
-   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+   <!--<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
     <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
@@ -31,7 +31,7 @@
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
     <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
-    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>-->
 
 </div>
 <!--[![TWITTER](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/coin_sniper356)
@@ -41,7 +41,6 @@
 
 <!--₿-->
 ## Find Me
-<br/>
 <div align="center">
 <a href="mailto:harshmittal1750@gmail.com"> <img src="https://user-images.githubusercontent.com/100613640/167249537-2538da78-a5c8-41d0-b7b8-4cd7503f43e6.png" title="Gmail" width='50'></a>&nbsp;
 <a href="https://twitter.comharshmittal1750"> <img src="https://user-images.githubusercontent.com/100613640/167250432-26046656-736f-4f5d-83a7-7df1d5859a17.png" title="Twitter" width='50'></a>&nbsp;
@@ -52,7 +51,7 @@
 <a href="https://discordapp.com/users/essentialpcspy"> <img src="https://user-images.githubusercontent.com/100613640/167250511-33460d5c-cd81-4aa8-b484-78ec949e6a24.png" title="Discord" width='50'></a>&nbsp;
 <!-- <a href="https://medium.com/@crypto10000x"> <img src="https://user-images.githubusercontent.com/100613640/167250523-0a4321fb-4554-4be8-a60e-d07a4a0a01bc.png" title="Medium" width='50'></a>&nbsp; -->
 <!-- <a href="https://angel.co/u/ayan-maiti-3"> <img src="https://user-images.githubusercontent.com/100613640/167265315-a13b030d-5af0-4d3e-91d8-98af834e59a4.png" title="AngelList" width='40' height="50"></a>&nbsp; -->
-</div><br/><br/>
+</div>
 
 ## Holopin board
 
@@ -73,26 +72,16 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://user-images.githubusercontent.com/100613640/235368570-a9473394-d6d2-46bd-a67a-ff0b2b57b4df.png" title="Tailwind CSS" alt="Tailwind CSS" width="70" height="40"/>&nbsp;&nbsp;
-
-  <img src="https://user-images.githubusercontent.com/100613640/167257708-f12daab7-b593-409a-9284-686fe7de9b6a.png"  title="Blockchain" alt="Blockchain" width="50" height="50"/>&nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/100613640/167257782-dab09ccc-20f6-4f70-8d93-bcbb4a51d37c.png"  title="Ethereum" alt="Ethereum" height="50"/>&nbsp;&nbsp;
-  <img src="https://seeklogo.com/images/S/solana-sol-logo-12828AD23D-seeklogo.com.png?v=637944448890000000" title="Solana" alt="SOL" width="50" height="50"/>&nbsp;&nbsp;
-  <img src="https://seeklogo.com/images/P/polygon-matic-logo-86F4D6D773-seeklogo.com.png" title="Polygon" alt="Polygon" width="50" height="50"> &nbsp; &nbsp; 
-  <img src="https://seeklogo.com/images/N/near-protocol-near-logo-747A7B638A-seeklogo.com.png" title="Near" alt="Near" width="50" height="50"> &nbsp; &nbsp;
-  <img src="https://seeklogo.com/images/A/avalanche-avax-logo-440813952D-seeklogo.com.png" title="Avalanche" alt="Avalanche" width="50" height="50"> &nbsp; &nbsp;
-  <img src="https://cryptologos.cc/logos/cosmos-atom-logo.svg?v=022"  title="Cosmos SDK" alt="Cosmos SDK" height="50"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="Node Package Manager" alt="NPM" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://seeklogo.com/images/Y/yarn-logo-F5E7A65FA2-seeklogo.com.png" title="Yarn Package Manager" alt="Yarn" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://jirasupport.files.wordpress.com/2018/04/web3.png" title="Web3JS" alt="Web3JS" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://seeklogo.com/images/E/ethers-logo-D5B86204D8-seeklogo.com.png" title="EthersJS" alt="EthersJS" width="60"> &nbsp;&nbsp;
-  <img src="https://github.com/harshmittal1750/harshmittal1750/assets/100613640/46716b15-d796-4429-a2aa-c05be66c3370" title="Chainlink" alt="Chainlink" width="43" height="50"> &nbsp;&nbsp;
-
   <img src="https://user-images.githubusercontent.com/100613640/199317110-85461db1-39d5-4e80-952c-e2cce780ae38.png" title="ExpressJS" alt="ExpressJS" width="60"> &nbsp;&nbsp;
   <img src="https://user-images.githubusercontent.com/100613640/235369028-17d9b4e2-e406-4037-b281-1c637d976937.png" title="MongoDB" alt="MongoDB" width="60"> &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="ReactJS" alt="React" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" title="NextJS" alt="NextJS" width="50" height="50"/>&nbsp;&nbsp;
-  <img src="https://seeklogo.com/images/V/vuejs-logo-17D586B587-seeklogo.com.png" title="VueJS" alt="Vue" width="50" height="45"/> &nbsp;&nbsp;
+  <!--<img src="https://seeklogo.com/images/V/vuejs-logo-17D586B587-seeklogo.com.png" title="VueJS" alt="Vue" width="50" height="45"/> &nbsp;&nbsp;-->
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="50" height="50"/>&nbsp; &nbsp;
   <img src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" title="Hardhat" alt="Hardhat" width="50" height="40"/>&nbsp; &nbsp;
@@ -100,20 +89,13 @@
   <img src="https://user-images.githubusercontent.com/100613640/167257343-9139a4a3-5c2e-4b26-90c8-e6945c5738ce.png" title="Ganache" alt="Ganache" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://user-images.githubusercontent.com/100613640/167257449-5e5713e9-4ae3-4cb9-ac52-2f4d1721aeb3.png" title="Metamask" alt="Metamask" width="50" height="50"/>&nbsp;&nbsp;
   <!--img src="https://user-images.githubusercontent.com/100613640/167257168-4ee54a7c-03b8-4706-8a82-7e7593f91931.png" title="Hardhat" alt="Hardhat" width="50" height="50"/-->&nbsp;&nbsp;
-   
-  
-
-
-
-
-          
 </div><br><br>
 
 ## Github Trophies
 
 <br/>
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=harshmittal1750&theme=juicyfresh&no-frame=false" width="650">
+<img src="https://github-profile-trophy.vercel.app/?username=harshmittal1750&theme=juicyfresh&no-frame=false" width="750">
 </div><br/><br/>
 
 
