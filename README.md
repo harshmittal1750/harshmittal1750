@@ -1,6 +1,4 @@
 ### Hi there 👋, I'm Harsh Mittal! ✨
-<br>
-
 🔭 Currently learning React Native and Web3 technologies.
 
 👯 Excited about future opportunities and collaborations.
