@@ -1,13 +1,12 @@
 ### Hi there 👋, I'm Harsh Mittal! ✨
-- 🔭 Currently learning React Native and Web3 technologies.
+- 🔭 Currently learning  Web3 technologies.
 - 👯 Excited about future opportunities and collaborations.
 - 💬 Feel free to DM me to discuss about projects and share innovative ideas.
-- ✉️ You can reach me at: harshmittal1750@gmail.com.
-- 🔗 Alternatively, you can contact me via the web3 way at: harshmittal.eth@mail3.me.
-- 🌱 I’m an aspiring **Full Stack web3 Developer** interested in developing web application and dApps.
+- ✉️ You can reach me at: harshmittal.dev@gmail.com.
+- 🌱 I’m a **Full Stack web3 Developer** interested in developing web application and dApps.
 - 🥅 My goal is to achieve decentralization, security and scalability and pave way for mass adoption of Web3.0.
 - 💻 Researching about different Blockchain Protocols and developing applications and utilities using them.
-- 🎆 I have experience in working with blockchain tools and frameworks like *Hardhat, Truffle, Metamask, EthersJS, Web3JS*, etc.
+- 🎆 I have experience in working with blockchain tools and frameworks like *Hardhat, Truffle, Foundry, EthersJS, Web3JS*, etc.
 
 <!--## My Working Stack:
 
