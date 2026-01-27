@@ -90,12 +90,12 @@
   <!--img src="https://user-images.githubusercontent.com/100613640/167257168-4ee54a7c-03b8-4706-8a82-7e7593f91931.png" title="Hardhat" alt="Hardhat" width="50" height="50"/-->&nbsp;&nbsp;
 </div><br><br>
 
-## Github Trophies
 
-<br/>
+
+<!-- <br/>
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=harshmittal1750&theme=juicyfresh&no-frame=false" width="750">
-</div><br/><br/>
+</div><br/><br/> -->
 
 
 ## My Stats
@@ -108,7 +108,7 @@
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=harshmittal1750&theme=radical" width="392">&nbsp;&nbsp;<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=harshmittal1750&theme=radical" width="389">
           
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshmittal1750&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" width="798" height="300">
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshmittal1750&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" width="798" height="300"> -->
           
 
 </div>
